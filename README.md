@@ -10,7 +10,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahasourav17&show_icons=true&theme=radical&hide_border=false" />
 
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasourav17&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasourav17&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical" />
 
 
 #### Languages
