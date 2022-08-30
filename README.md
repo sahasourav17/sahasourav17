@@ -8,10 +8,13 @@
 - 📫 sahasourav1170@gmail.com
 <hr>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahasourav17&show_icons=true&theme=radical&hide_border=false" />
+<a href="">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahasourav17&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasourav17&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical" />
-
+<a href="">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasourav17&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=radical" />
+</a>
 
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
