@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-saha17/)
 
 - :sparkles: CS Undergrad 
-- 📝 Writes on [Medium](sahasourav1170.medium.com)
+- 📝 Writes on [Medium](https://medium.com/@sahasourav1170)
 - 📫 sahasourav1170@gmail.com
 <hr>
 
