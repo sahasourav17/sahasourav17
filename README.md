@@ -1,10 +1,10 @@
 ## Hi, This is Sourav Saha
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sahasourav17.github.io/)
-[![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://fahadulshadhin.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://sahasourav1170.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-saha17/)
 
 - :sparkles: CS Undergrad 
-- 📝 Writes on [Medium](https://medium.com/@sahasourav1170)
+- 📝 Writes on [Medium](https://sahasourav1170.medium.com/)
 - 📫 sahasourav1170@gmail.com
 <hr>
 
