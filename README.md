@@ -20,15 +20,20 @@
 ![Keras](https://img.shields.io/static/v1?&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
+![Django](https://img.shields.io/static/v1?&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
 
 
 
-![Oracle](https://img.shields.io/static/v1?&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
+
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=4DB33D&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-orange?logo=amazon-dynamodb&logoColor=white&style=flat)
 
+
+![Tailwind CSS](https://img.shields.io/static/v1?&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
+![Material-UI](https://img.shields.io/static/v1?&message=Material-UI&color=0081CB&logo=Material-UI&logoColor=FFFFFF&label=)
 
 
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
