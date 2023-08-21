@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://sahasourav1170.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-saha17/)
 
-- :sparkles: CS Undergrad 
+- :sparkles: Software Engineer
 - 📝 Writes on [Medium](https://sahasourav1170.medium.com/)
 - 📫 sahasourav1170@gmail.com
 <hr>
