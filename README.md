@@ -42,15 +42,6 @@
 ![Ubuntu](https://img.shields.io/static/v1?&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 
 
-## 📈 ***GitHub Stats***
-<a href="">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahasourav17&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
-
-<a href="">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasourav17&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=radical" />
-</a>
-<div
 <p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sahasourav17&label=Profile%20Views&color=1&icon=8&pretty=true" />
