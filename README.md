@@ -49,3 +49,17 @@
 </p>
 
 
+## Research Works
+- [Detecting Violence Inciting Texts based on Pre-trained Transformers](https://ieeexplore.ieee.org/abstract/document/10441268)
+  ```
+  @INPROCEEDINGS{10441268,
+  author={Tamim, Fahim Shakil and Saha, Sourav and Das, Avishek and Hoque, Mohammed Moshiul},
+  booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
+  title={Detecting Violence Inciting Texts based on Pre-trained Transformers}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Support vector machines;Social networking (online);Computational modeling;Refining;Transformers;Surges;Testing;Natural language processing;Text classification;Violence inciting texts;Transformer-based learning},
+  doi={10.1109/ICCIT60459.2023.10441268}}
+  ```
