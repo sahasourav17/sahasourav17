@@ -1,65 +1,100 @@
-## Hi, This is Sourav Saha
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sahasourav.netlify.app/)
-[![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://sahasourav1170.medium.com/)
+# Sourav Saha
+
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dev.sahasourav.site/)
+[![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://sahasourav1170.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-saha17/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sahasourav17)
 
+- ✨ Software Engineer
+- 📝 I write articles on [Medium](https://sahasourav1170.medium.com/)
+- 📫 How to reach me: sahasourav1170@gmail.com
 
-- :sparkles: Software Engineer
-- 📝 Writes on [Medium](https://sahasourav1170.medium.com/)
-- 📫 sahasourav1170@gmail.com
-<hr>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sahasourav17&label=Profile%20Views&color=1&icon=8&pretty=true" />
+  </a>
+</div>
 
-## 🛠️ ***My Tech***
+---
 
+## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&)
-![Python](https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=&)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
+<table>
+  <tr>
+    <td align="center"><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center"><strong>UI/UX</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
+      <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+      <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
+      <img src="https://img.shields.io/badge/Codacy-222222?style=for-the-badge&logo=codacy&logoColor=white" alt="Codacy" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    </td>
+  </tr>
+</table>
 
+---
 
-![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
-![Keras](https://img.shields.io/static/v1?&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
-![OpenCV](https://img.shields.io/static/v1?&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
-![Django](https://img.shields.io/static/v1?&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat)
+## 🔬 Research Work
 
+### **Detecting Violence Inciting Texts based on Pre-trained Transformers**
+*Published in: 2023 26th International Conference on Computer and Information Technology (ICCIT)*
+[[Read Paper]](https://ieeexplore.ieee.org/abstract/document/10441268)
 
+<details>
+<summary>BibTeX Citation</summary>
 
-
-![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=4DB33D&logo=MongoDB&logoColor=FFFFFF&label=)
-![Amazon DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-orange?logo=amazon-dynamodb&logoColor=white&style=flat)
-
-
-![Tailwind CSS](https://img.shields.io/static/v1?&message=Tailwind+CSS&color=38B2AC&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
-![Material-UI](https://img.shields.io/static/v1?&message=Material-UI&color=0081CB&logo=Material-UI&logoColor=FFFFFF&label=)
-
-
-![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/static/v1?&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-
-
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sahasourav17&label=Profile%20Views&color=1&icon=8&pretty=true" />
-</a>
-</p>
-
-
-## Research Works
-- [Detecting Violence Inciting Texts based on Pre-trained Transformers](https://ieeexplore.ieee.org/abstract/document/10441268)
-  ```
-  @INPROCEEDINGS{10441268,
-  author={Tamim, Fahim Shakil and Saha, Sourav and Das, Avishek and Hoque, Mohammed Moshiul},
-  booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
-  title={Detecting Violence Inciting Texts based on Pre-trained Transformers}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Support vector machines;Social networking (online);Computational modeling;Refining;Transformers;Surges;Testing;Natural language processing;Text classification;Violence inciting texts;Transformer-based learning},
-  doi={10.1109/ICCIT60459.2023.10441268}}
-  ```
+@INPROCEEDINGS{10441268,
+author={Tamim, Fahim Shakil and Saha, Sourav and Das, Avishek and Hoque, Mohammed Moshiul},
+booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+title={Detecting Violence Inciting Texts based on Pre-trained Transformers},
+year={2023},
+pages={1-6},
+doi={10.1109/ICCIT60459.2023.10
+</details>
