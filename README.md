@@ -104,14 +104,6 @@
 *Published in: 2023 26th International Conference on Computer and Information Technology (ICCIT)*
 [[Read Paper]](https://ieeexplore.ieee.org/abstract/document/10441268)
 
-<details>
-<summary>BibTeX Citation</summary>
-
-@INPROCEEDINGS{10441268,
-author={Tamim, Fahim Shakil and Saha, Sourav and Das, Avishek and Hoque, Mohammed Moshiul},
-booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
-title={Detecting Violence Inciting Texts based on Pre-trained Transformers},
-year={2023},
-pages={1-6},
-doi={10.1109/ICCIT60459.2023.10
-</details>
+### **MulTSeA: Aspect-based Sentiment Analysis using Multitask Learning from Bengali Texts**
+*Published in: 2024 27th International Conference on Computer and Information Technology (ICCIT)*
+[[Read Paper]](https://ieeexplore.ieee.org/document/11021922)
